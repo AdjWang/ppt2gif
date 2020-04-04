@@ -1,15 +1,18 @@
 import os
 from setuptools import setup, find_packages
 
+# python setup.py sdist bdist_wheel
+# twine upload --repository-url https://test.pypi.org/legacy/ dist/*
+# twine upload dist/*
 
 path = os.path.abspath(os.path.dirname(__file__))
 
 setup(
     name = "ppt2gif",
-    version = "1.0",
+    version = "1.0.0",
     keywords = ["pip", "ppt", "gif"],
     description = "https://github.com/AdjWang/ppt2gif",
-    long_description = "github 链接: https://github.com/AdjWang/ppt2gif，说明详见`README.md`",
+    long_description = "github 链接: https://github.com/AdjWang/ppt2gif 说明详见`README.md`",
     long_description_content_type='text/markdown',
     python_requires=">=3.5.0",
     license = "MIT Licence",

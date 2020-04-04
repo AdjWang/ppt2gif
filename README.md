@@ -60,3 +60,6 @@ ppt_obj.convert2png()
 
 2. 平台限制。因为依赖`win32com`包，所以暂时仅支持`windows`系统。
 
+## 转换效果
+
+![img](https://images.cnblogs.com/cnblogs_com/adjwang/1664631/o_200324060218diagram.gif)
