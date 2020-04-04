@@ -1,1 +1,4 @@
 __pycache__/
+build/
+dist/
+ppt2gif.egg-info/
