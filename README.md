@@ -62,4 +62,5 @@ ppt_obj.convert2png()
 
 ## 转换效果
 
-![img](https://images.cnblogs.com/cnblogs_com/adjwang/1664631/o_200324060218diagram.gif)
+我发现`github`上面显示有问题，直接附上[图片链接](https://images.cnblogs.com/cnblogs_com/adjwang/1689175/o_200404023504%E7%8A%B6%E6%80%81%E6%9C%BA%E6%A1%86%E5%9B%BE.gif)
+
