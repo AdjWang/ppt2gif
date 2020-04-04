@@ -11,7 +11,7 @@ sys.path.append(path)
 
 setup(
     name = "ppt2gif",
-    version = "1.0.1",
+    version = "1.0.2",
     keywords = ["pip", "ppt", "gif"],
     description = "https://github.com/AdjWang/ppt2gif",
     long_description = "github 链接: https://github.com/AdjWang/ppt2gif 说明详见`README.md`",
